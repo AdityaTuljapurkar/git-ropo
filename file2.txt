@@ -1,3 +1,5 @@
 this is my file 2 of git course
 
 adding more content in file 2
+
+this is the data of the newBrach
