@@ -1,0 +1,1 @@
+Trying to add files into git repository using the following command:
